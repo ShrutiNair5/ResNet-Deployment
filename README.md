@@ -16,4 +16,4 @@
 ![App-Result](UploadImage.png)
 
 
-**Check Out our Deployment : [ResNet](https://resnetdeployment.herokuapp.com/)**
+**Check ResNet Deployment : [ResNet](https://resnetdeployment.herokuapp.com/)**
