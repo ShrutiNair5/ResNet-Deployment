@@ -7,7 +7,7 @@
 #### Steps required to deploy on Heroku platform
 1)  Additional Files for Deployment- Before we deploy the web app, we need to create additional files in addition to Python files that we have created to build the app. These         files are
 
--requirements.txt: this is the text file that we need to create to tell Heroku to install the necessary Python packages needed to deploy our machine learning model. W used four Python libraries to build the app: numpy, streamlit, tensorflow, and pillow. Hence, we need to specify the relevant version of those libraries in this text file.
+-  requirements.txt: this is the text file that we need to create to tell Heroku to install the necessary Python packages needed to deploy our machine learning model. W used four Python libraries to build the app: numpy, streamlit, tensorflow, and pillow. Hence, we need to specify the relevant version of those libraries in this text file.
      
 
 
