@@ -1,5 +1,5 @@
 # ResNet-Deployment
-
+ We have developed ResNet architecture and experimented with various Hyperparameters. Please checkout this repository for more details [Resnet_Implementation](https://github.com/ShrutiNair5/Resnet_Implementation) <- Click
 ### Team
 
 - [Akshay Amrit](https://github.com/akshayamrit) - E20004
