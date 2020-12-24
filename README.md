@@ -5,7 +5,9 @@
 
 - The TrainingNotebook.ipynb was created as an abstraction to run the model and to save `training_logs.txt` and `saved_weights.pt` which are then used during inference.
 
-- After testing application locally we deployed it on Heroku platform
+- app.py file in the root directory of the folder structure which invokes [layout.html](https://github.com/ShrutiNair5/ResNet-Deployment/blob/master/ResNet-Deployment/templates/layout.html) from templates folder has a form to take one image from the user and on uploading redirects to [result.html](https://github.com/ShrutiNair5/ResNet-Deployment/blob/master/ResNet-Deployment/templates/result.html) displaying the image and the class that the image belongs to.
+
+- After testing application on `localhost` we deployed it on Heroku platform
 
 #### Steps required to deploy on Heroku platform
 1)  Additional Files for Deployment- Before we deploy the web app, we need to create additional files in addition to Python files that we have created to build the app. These files are
@@ -40,7 +42,7 @@ If you already have Heroku account, you can skip this step. If you haven’t, th
 ![App-Result](UploadImage.png)
 
 
-**Check ResNet Deployment : [ResNet](https://resnetdeployment.herokuapp.com/)**   <-- Click
+**Click here to checkout ResNet Deployment : [ResNet](https://resnetdeployment.herokuapp.com/)**   
 
 
 
